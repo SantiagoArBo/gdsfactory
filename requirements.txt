@@ -12,7 +12,7 @@ numpy
 omegaconf
 orjson
 pandas
-phidl @ git+https://github.com/SantiagoArBo/phidl@v1.6.3_black
+phidl @ git+https://github.com/SantiagoArBo/phidl@v1.6.4_black
 picwriter==0.5
 pydantic
 Pyqtree
